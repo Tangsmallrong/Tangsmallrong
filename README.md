@@ -1,7 +1,7 @@
 
 ### Hi, I'm <a href="https://tangsmallrong.github.io">Thr</a>.
 
-<a href="https://github.com/Tangsmallrong/computer-vision-in-action">
+<a>
     <img align="right" src="https://komarev.com/ghpvc/?username=Tangsmallrong&label=Visitors&color=green&logo=github" alt="gtihub-visitors" />
 </a>
 
