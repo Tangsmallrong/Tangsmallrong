@@ -6,8 +6,8 @@
 </a>
 
 <div >
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Tangsmallrong&theme=blueberry-duo" />
     <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangsmallrong&layout=compact&langs_count=6" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Tangsmallrong&theme=blueberry-duo" />
 </div>
 
 
